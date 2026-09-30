@@ -1,0 +1,8 @@
+click
+rich
+astroid
+pytest
+mypy
+sqlite3
+click-option-group
+pytest-mock

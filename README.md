@@ -1,0 +1,1 @@
+This repository contains a multi-component CLI utility designed for static code analysis, AST generation, and API stress testing. The core module handles the analysis and test generation, while the CLI provides a user-friendly interface. The tests ensure the functionality of the core module.
